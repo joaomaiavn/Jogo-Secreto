@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Página-1" id="iztAj0njowZ3JJKUc7U6">
-    <mxGraphModel dx="1502" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,6 +28,11 @@
               <mxPoint x="480" y="70" />
               <mxPoint x="480" y="70" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2zvp9Cle3BON6LFUC2D-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2zvp9Cle3BON6LFUC2D-3" source="K2zvp9Cle3BON6LFUC2D-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="K2zvp9Cle3BON6LFUC2D-13" value="Acessar o link&lt;div&gt;de login&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="K2zvp9Cle3BON6LFUC2D-3">
@@ -73,6 +78,19 @@
         </mxCell>
         <mxCell id="K2zvp9Cle3BON6LFUC2D-86" value="Trocar a Senha Antes&lt;div&gt;do Bloqueio&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="K2zvp9Cle3BON6LFUC2D-3">
           <mxGeometry x="290" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="K2zvp9Cle3BON6LFUC2D-120" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=link;" vertex="1" parent="K2zvp9Cle3BON6LFUC2D-3">
+          <mxGeometry x="470" y="130" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K2zvp9Cle3BON6LFUC2D-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.82;entryY=0.96;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="K2zvp9Cle3BON6LFUC2D-3" source="K2zvp9Cle3BON6LFUC2D-120" target="K2zvp9Cle3BON6LFUC2D-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="K2zvp9Cle3BON6LFUC2D-123" value="informar Usuário e Senha Temporária&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="K2zvp9Cle3BON6LFUC2D-3">
+          <mxGeometry x="530" y="150" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K2zvp9Cle3BON6LFUC2D-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="K2zvp9Cle3BON6LFUC2D-2" source="K2zvp9Cle3BON6LFUC2D-15" target="K2zvp9Cle3BON6LFUC2D-18">
           <mxGeometry relative="1" as="geometry">
@@ -158,6 +176,11 @@
         <mxCell id="K2zvp9Cle3BON6LFUC2D-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="K2zvp9Cle3BON6LFUC2D-6" source="K2zvp9Cle3BON6LFUC2D-23" target="K2zvp9Cle3BON6LFUC2D-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="K2zvp9Cle3BON6LFUC2D-125" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="K2zvp9Cle3BON6LFUC2D-38">
+          <mxGeometry x="0.0541" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="K2zvp9Cle3BON6LFUC2D-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2zvp9Cle3BON6LFUC2D-6" source="K2zvp9Cle3BON6LFUC2D-53" target="K2zvp9Cle3BON6LFUC2D-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -231,6 +254,9 @@
         <mxCell id="K2zvp9Cle3BON6LFUC2D-107" value="Você Quer Trocar a Senha?" style="points=[[0.25,0.25,0],[0.5,0,0],[0.75,0.25,0],[1,0.5,0],[0.75,0.75,0],[0.5,1,0],[0.25,0.75,0],[0,0.5,0]];shape=mxgraph.bpmn.gateway2;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;outlineConnect=0;outline=none;symbol=none;gwType=exclusive;direction=east;" vertex="1" parent="K2zvp9Cle3BON6LFUC2D-4">
           <mxGeometry x="310" y="160" width="50" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="K2zvp9Cle3BON6LFUC2D-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2zvp9Cle3BON6LFUC2D-4" source="K2zvp9Cle3BON6LFUC2D-114" target="K2zvp9Cle3BON6LFUC2D-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K2zvp9Cle3BON6LFUC2D-114" value="Enviar Senha Temporária&amp;nbsp;" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=standard;symbol=message;" vertex="1" parent="K2zvp9Cle3BON6LFUC2D-4">
           <mxGeometry x="650" y="175" width="50" height="50" as="geometry" />
         </mxCell>
@@ -238,6 +264,12 @@
           <mxGeometry x="455" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K2zvp9Cle3BON6LFUC2D-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="K2zvp9Cle3BON6LFUC2D-4" source="K2zvp9Cle3BON6LFUC2D-115" target="K2zvp9Cle3BON6LFUC2D-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="K2zvp9Cle3BON6LFUC2D-118" value="" style="points=[[0.145,0.145,0],[0.5,0,0],[0.855,0.145,0],[1,0.5,0],[0.855,0.855,0],[0.5,1,0],[0.145,0.855,0],[0,0.5,0]];shape=mxgraph.bpmn.event;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=ellipsePerimeter;outlineConnect=0;aspect=fixed;outline=catching;symbol=link;" vertex="1" parent="K2zvp9Cle3BON6LFUC2D-4">
+          <mxGeometry x="740" y="80" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="K2zvp9Cle3BON6LFUC2D-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="K2zvp9Cle3BON6LFUC2D-2" source="K2zvp9Cle3BON6LFUC2D-123" target="K2zvp9Cle3BON6LFUC2D-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
