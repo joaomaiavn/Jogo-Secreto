@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K2zvp9Cle3BON6LFUC2D-62" value="Desbloquear Usuário&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" vertex="1" parent="K2zvp9Cle3BON6LFUC2D-3">
-          <mxGeometry x="60" y="110" width="120" height="60" as="geometry" />
+          <mxGeometry x="95" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="K2zvp9Cle3BON6LFUC2D-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="K2zvp9Cle3BON6LFUC2D-3" source="K2zvp9Cle3BON6LFUC2D-67">
           <mxGeometry relative="1" as="geometry">
